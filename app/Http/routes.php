@@ -15,14 +15,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('email', function(){
-    return view('email');
-});
-
 Route::post('email', 'TestController@email');
-
-Route::get('phone', function(){
-    return view('phone');
-});
 
 Route::post('phone', 'TestController@phone');

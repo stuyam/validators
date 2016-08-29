@@ -12,10 +12,10 @@ use App\Http\Requests\PhoneFormRequest;
 class TestController extends Controller
 {
     public function email(EmailFormRequest $request){
-      return 'That totally worked!';
+      return view('email');
     }
 
     public function phone(PhoneFormRequest $request){
-      return 'That totally worked!';
+      return view('email');
     }
 }

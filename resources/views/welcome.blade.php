@@ -18,6 +18,9 @@
             .container{
                 max-width: 700px;
             }
+            hr{
+                border-color: #00427b;
+            }
         </style>
     </head>
     <body class="bg-primary p-x-1 p-y-3">
@@ -34,8 +37,14 @@
                         <input class="btn btn-danger m-t-1" type="submit" value="Try Me" />
                     </form>
                 </div>
+                <p class="text-xs-center">
+                    <a href="https://packagist.org/packages/stuyam/laravel-phone-validator">Packagist</a>
+                    &nbsp;|&nbsp;
+                    <a href="https://github.com/stuyam/laravel-phone-validator">GitHub</a>
+                </p>
             </div>
-            <div class="m-t-3">
+            <hr class="m-y-2">
+            <div>
                 <h1 class="text-xs-center">Laravel Kickbox Validator</h1>
                 <p class="text-xs-center">A <a href="https://kickbox.io">kickbox</a> email validator for form requests in laravel.</p>
                 <p class="text-xs-center">Give me a try below!</p>
@@ -47,8 +56,13 @@
                         <input class="btn btn-danger m-t-1" type="submit" value="Try Me" />
                     </form>
                 </div>
+                <p class="text-xs-center">
+                    <a href="https://packagist.org/packages/stuyam/laravel-kickbox-validator">Packagist</a>
+                    &nbsp;|&nbsp;
+                    <a href="https://github.com/stuyam/laravel-kickbox-validator">GitHub</a>
+                </p>
             </div>
-            <hr class="m-y-3" style="border-color: white;">
+            <hr class="m-y-2">
             <div class="text-xs-center">Made by <a href="http://stuyam.com">Stuart Yamartino</a></div>
         </div>
     </body>
