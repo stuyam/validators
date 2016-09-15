@@ -63,6 +63,11 @@
                 </p>
             </div>
             <hr class="m-y-2">
+            <h3>Watch the Talk</h3>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xiKymcKOvuI?start=750" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <hr class="m-y-2">
             <div class="text-xs-center">Made by <a href="http://stuyam.com">Stuart Yamartino</a></div>
         </div>
     </body>

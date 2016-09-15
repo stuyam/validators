@@ -7,9 +7,7 @@
         <form action="/phone" method="post">
             <label>Phone</label>
             <input type="text" name="phone" value="{{old('phone')}}" />
-            <br>
             <span style="color:red;">{{$errors->first('phone')}}</span>
-            <br>
             <input type="submit" value="submit" />
         </form>
     </body>
