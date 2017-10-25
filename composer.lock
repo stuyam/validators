@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "2aaaaf93dc83c5038018b2c4e980aaf8",
+    "hash": "2edb4f7c28509f2eda501c7f6b40b462",
     "content-hash": "73a2d17ff806f6b5f7e3f704716097de",
     "packages": [
         {
@@ -1241,21 +1241,21 @@
         },
         {
             "name": "stuyam/laravel-phone-validator",
-            "version": "1.0.4",
+            "version": "1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stuyam/laravel-phone-validator.git",
-                "reference": "36a2bdccec405d42ad45a9f371be744850044b1d"
+                "reference": "2e3fafe1f641c3d1c41973a48c777d8f9e1d4688"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stuyam/laravel-phone-validator/zipball/36a2bdccec405d42ad45a9f371be744850044b1d",
-                "reference": "36a2bdccec405d42ad45a9f371be744850044b1d",
+                "url": "https://api.github.com/repos/stuyam/laravel-phone-validator/zipball/2e3fafe1f641c3d1c41973a48c777d8f9e1d4688",
+                "reference": "2e3fafe1f641c3d1c41973a48c777d8f9e1d4688",
                 "shasum": ""
             },
             "require": {
                 "illuminate/support": "^5.0",
-                "twilio/sdk": "^4.10 || ^5.0"
+                "twilio/sdk": "^5.0"
             },
             "type": "library",
             "autoload": {
@@ -1281,7 +1281,7 @@
                 "validation",
                 "validator"
             ],
-            "time": "2017-10-13 15:46:17"
+            "time": "2017-10-25 19:41:48"
         },
         {
             "name": "swiftmailer/swiftmailer",
